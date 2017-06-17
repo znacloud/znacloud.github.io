@@ -10,7 +10,7 @@ $(function () {
                 }
             },
             "color": {
-                "value": "#399c9c"
+                "value": "#ff9900"
             },
             "shape": {
                 "type": "circle",
@@ -28,8 +28,8 @@ $(function () {
                 // }
             },
             "opacity": {
-                "value": 0.3,
-                "random": false,
+                "value": 0.8,
+                "random": true,
                 "anim": {
                     "enable": false,
                     "speed": 1,
@@ -50,7 +50,7 @@ $(function () {
             "line_linked": {
                 "enable": true,
                 "distance": 250,
-                "color": "#40afaf",
+                "color": "#ffac2f",
                 "opacity": 0.3,
                 "width": 1
             },
